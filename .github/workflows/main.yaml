@@ -8,7 +8,7 @@ on:
   pull_request:
 
 env:
-  KUBEEDGE_VERSION: v1.8.2
+  KUBEEDGE_VERSION: v1.12.1
 
 jobs:
   verify-and-lint:
